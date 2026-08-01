@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0031-next-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
