@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
