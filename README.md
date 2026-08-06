@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3765-complete-prime-number) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3765-complete-prime-number) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
