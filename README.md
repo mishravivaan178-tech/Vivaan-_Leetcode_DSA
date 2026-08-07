@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
+| [3115-maximum-prime-difference](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3765-complete-prime-number) |
 ## Recursion
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3115-maximum-prime-difference](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3115-maximum-prime-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,10 +73,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3115-maximum-prime-difference](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3765-complete-prime-number) |
 ## Enumeration
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3765-complete-prime-number) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
