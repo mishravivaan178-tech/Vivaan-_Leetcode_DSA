@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -147,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
