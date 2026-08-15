@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
