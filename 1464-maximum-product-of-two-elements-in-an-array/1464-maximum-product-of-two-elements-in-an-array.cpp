@@ -6,9 +6,8 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++){
             if(nums[i]>maxi){
-               
-                maxi2=maxi;
-             maxi=nums[i];
+              maxi2=maxi;
+               maxi=nums[i];
             }
             else if(nums[i]>maxi2){
                 maxi2=nums[i];
