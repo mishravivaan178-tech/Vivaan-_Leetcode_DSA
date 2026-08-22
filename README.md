@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 | [3115-maximum-prime-difference](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
 | [0881-boats-to-save-people](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
