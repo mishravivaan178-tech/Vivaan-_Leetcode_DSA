@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
