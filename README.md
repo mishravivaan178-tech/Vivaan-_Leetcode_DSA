@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 ## Math
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
 ## Merge Sort
 |  |
