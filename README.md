@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree
 |  |
@@ -283,9 +286,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0148-sort-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0078-subsets) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
