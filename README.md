@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0023-merge-k-sorted-lists) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
