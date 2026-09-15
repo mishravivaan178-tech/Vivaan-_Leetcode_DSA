@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
