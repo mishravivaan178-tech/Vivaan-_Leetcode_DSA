@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
