@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0394-decode-string) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
