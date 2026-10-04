@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 | [0881-boats-to-save-people](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0881-boats-to-save-people) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0695-max-area-of-island](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0695-max-area-of-island) |
 ## Counting
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -323,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
