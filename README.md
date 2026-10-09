@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0338-counting-bits) |
 ## Tournament Sort
 |  |
