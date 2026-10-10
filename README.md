@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 | [3115-maximum-prime-difference](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0695-max-area-of-island) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -314,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0338-counting-bits) |
 ## Tournament Sort
 |  |
