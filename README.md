@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 | [3115-maximum-prime-difference](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3115-maximum-prime-difference) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0394-decode-string) |
 ## Array
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0338-counting-bits) |
 ## Tournament Sort
