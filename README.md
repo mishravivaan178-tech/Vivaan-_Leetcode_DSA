@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0856-score-of-parentheses) |
 ## Floyd's Cycle Finding Algorithm
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
