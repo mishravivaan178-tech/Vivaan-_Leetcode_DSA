@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 | [0881-boats-to-save-people](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0881-boats-to-save-people) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0881-boats-to-save-people) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0695-max-area-of-island) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
