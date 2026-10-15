@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3115-maximum-prime-difference](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3115-maximum-prime-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0856-score-of-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -359,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
