@@ -361,6 +361,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
