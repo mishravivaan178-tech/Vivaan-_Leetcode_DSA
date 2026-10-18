@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0415-add-strings) |
 | [0775-global-and-local-inversions](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0775-global-and-local-inversions) |
 | [3115-maximum-prime-difference](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0415-add-strings) |
 | [0856-score-of-parentheses](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0856-score-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0415-add-strings) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
