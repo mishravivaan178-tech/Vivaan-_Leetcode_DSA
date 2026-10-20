@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0856-score-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
