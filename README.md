@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1425-constrained-subsequence-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1425-constrained-subsequence-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
+| [1425-constrained-subsequence-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1425-constrained-subsequence-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0023-merge-k-sorted-lists) |
+| [1425-constrained-subsequence-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree
 |  |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1425-constrained-subsequence-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
@@ -378,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/0933-number-of-recent-calls) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/mishravivaan178-tech/Vivaan-_Leetcode_DSA/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->
